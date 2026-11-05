@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-media-library-dart-desktop",
+  "capabilityKey": "planned:cms:media-library",
+  "presentation": "dart-desktop",
+  "package": "module_cms_media_library_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/media-library.md",
+  "presentationPlan": "projects/cms/features/media-library.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
